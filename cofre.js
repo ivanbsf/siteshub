@@ -2,7 +2,7 @@
 // const COFRE_EMBUTIDO = { salt: "...", iv: "...", ciphertext: "..." };
 // Nunca coloque o token real aqui, apenas o cofre criptografado.
 const COFRE_EMBUTIDO = {
-    salt: "6jdUXIw/3ajiSueNgu4xIQ==",
-    iv: "vLBGKml9pKe19Jf1",
-    ciphertext: "4Fs8Quk1UL12hnkm7l7J+mBtezjmeq5wqSukemznG5Y+68DxS8nsb4Actn7jGET5uqRX6xvcoZ5y9JF1+vthoIh+tASvWyyBonrxugkJ4ma2N6/4x0bvlkRICgS+EnPEb4QfGEvAdSYUTrAMZw=="
+    salt: "xyn/yNaCHKs2IdK+Xe6hxQ==",
+    iv: "twkISETK5iOFyaY2",
+    ciphertext: "mjQzpJ5QQxK61JmBU0kmw0OwoEDcb22Z3TT2ta+0pzLlPsbDO3Ymn+OYAeLuGhE+vgZQ4PyWzn9HlGQ8dbOtNvCa7A0ZMvfJXYq8WfQw9BTVSnq77wFEmi0cSr/U8e6QarTpboMfg9VBJSz13A=="
 };
