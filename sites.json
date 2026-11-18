@@ -24,9 +24,15 @@
     },
     {
       "id": "4939556f8989",
-      "icone": "assets/site-icons/4939556f8989-d5c63d4f3319.png",
       "nome": "Fitmanager",
-      "url": "https://fitmanager.zya.me/"
+      "url": "https://fitmanager.zya.me/",
+      "icone": "assets/site-icons/4939556f8989-d5c63d4f3319.png"
+    },
+    {
+      "id": "863501891ad8",
+      "icone": "assets/site-icons/863501891ad8-97d9aea0aea9.png",
+      "nome": "NISSAN KICKS",
+      "url": "https://ivanbsf.github.io/desktop/boletos_carro/index.html"
     }
   ]
 }
